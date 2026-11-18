@@ -1,0 +1,53 @@
+N:\kozyr maksim\Practice 1\Practice 1\obj\Debug\net10.0-windows\Practice_1.Form1.resources
+N:\kozyr maksim\Practice 1\Practice 1\obj\Debug\net10.0-windows\Practice_1.UserControl1.resources
+N:\kozyr maksim\Practice 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.csproj.GenerateResource.cache
+N:\kozyr maksim\Practice 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.GeneratedMSBuildEditorConfig.editorconfig
+N:\kozyr maksim\Practice 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.AssemblyInfoInputs.cache
+N:\kozyr maksim\Practice 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.AssemblyInfo.cs
+N:\kozyr maksim\Practice 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.csproj.CoreCompileInputs.cache
+N:\kozyr maksim\Practice 1\Practice 1\bin\Debug\net10.0-windows\Practice 1.exe
+N:\kozyr maksim\Practice 1\Practice 1\bin\Debug\net10.0-windows\Practice 1.deps.json
+N:\kozyr maksim\Practice 1\Practice 1\bin\Debug\net10.0-windows\Practice 1.runtimeconfig.json
+N:\kozyr maksim\Practice 1\Practice 1\bin\Debug\net10.0-windows\Practice 1.dll
+N:\kozyr maksim\Practice 1\Practice 1\bin\Debug\net10.0-windows\Practice 1.pdb
+N:\kozyr maksim\Practice 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.dll
+N:\kozyr maksim\Practice 1\Practice 1\obj\Debug\net10.0-windows\refint\Practice 1.dll
+N:\kozyr maksim\Practice 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.pdb
+N:\kozyr maksim\Practice 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.genruntimeconfig.cache
+N:\kozyr maksim\Practice 1\Practice 1\obj\Debug\net10.0-windows\ref\Practice 1.dll
+C:\Users\max\Downloads\Практика 1\Practice 1\bin\Debug\net10.0-windows\Practice 1.exe
+C:\Users\max\Downloads\Практика 1\Practice 1\bin\Debug\net10.0-windows\Practice 1.deps.json
+C:\Users\max\Downloads\Практика 1\Practice 1\bin\Debug\net10.0-windows\Practice 1.runtimeconfig.json
+C:\Users\max\Downloads\Практика 1\Practice 1\bin\Debug\net10.0-windows\Practice 1.dll
+C:\Users\max\Downloads\Практика 1\Practice 1\bin\Debug\net10.0-windows\Practice 1.pdb
+C:\Users\max\Downloads\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice_1.Form1.resources
+C:\Users\max\Downloads\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice_1.UserControl1.resources
+C:\Users\max\Downloads\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.csproj.GenerateResource.cache
+C:\Users\max\Downloads\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max\Downloads\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.AssemblyInfoInputs.cache
+C:\Users\max\Downloads\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.AssemblyInfo.cs
+C:\Users\max\Downloads\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.csproj.CoreCompileInputs.cache
+C:\Users\max\Downloads\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.dll
+C:\Users\max\Downloads\Практика 1\Practice 1\obj\Debug\net10.0-windows\refint\Practice 1.dll
+C:\Users\max\Downloads\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.pdb
+C:\Users\max\Downloads\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.genruntimeconfig.cache
+C:\Users\max\Downloads\Практика 1\Practice 1\obj\Debug\net10.0-windows\ref\Practice 1.dll
+C:\Users\max\Downloads\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.csproj.Up2Date
+D:\Практика\Практика 1\Practice 1\bin\Debug\net10.0-windows\Practice 1.exe
+D:\Практика\Практика 1\Practice 1\bin\Debug\net10.0-windows\Practice 1.deps.json
+D:\Практика\Практика 1\Practice 1\bin\Debug\net10.0-windows\Practice 1.runtimeconfig.json
+D:\Практика\Практика 1\Practice 1\bin\Debug\net10.0-windows\Practice 1.dll
+D:\Практика\Практика 1\Practice 1\bin\Debug\net10.0-windows\Practice 1.pdb
+D:\Практика\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice_1.Form1.resources
+D:\Практика\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice_1.UserControl1.resources
+D:\Практика\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.csproj.GenerateResource.cache
+D:\Практика\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.AssemblyInfoInputs.cache
+D:\Практика\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.AssemblyInfo.cs
+D:\Практика\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.csproj.CoreCompileInputs.cache
+D:\Практика\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.dll
+D:\Практика\Практика 1\Practice 1\obj\Debug\net10.0-windows\refint\Practice 1.dll
+D:\Практика\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.pdb
+D:\Практика\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.genruntimeconfig.cache
+D:\Практика\Практика 1\Practice 1\obj\Debug\net10.0-windows\ref\Practice 1.dll
+D:\Практика\Практика 1\Practice 1\obj\Debug\net10.0-windows\Practice 1.csproj.Up2Date
